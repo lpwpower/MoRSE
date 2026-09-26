@@ -1,0 +1,24 @@
+# MoRSE — environment for the Gemma-4-31B-IT backbone.
+# Identical to environment_qwen_llama.yml EXCEPT transformers, which Gemma-4 requires at >=5.6.
+name: morse-gemma
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - torch==2.9.1                  # install the build matching your CUDA (see README)
+      - transformers==5.6.0           # Gemma-4-31B-IT needs transformers >= 5.6
+      - tokenizers==0.22.1
+      - peft==0.18.1
+      - accelerate==1.11.0
+      - safetensors==0.6.2
+      - sentence-transformers==5.2.0  # gte-Qwen2 encoder for the SRDD consistency reward
+      - numpy==2.3.5
+      - scipy==1.16.3
+      - scikit-learn==1.8.0
+      - pandas==2.3.2
+      - sympy==1.14.0
+      - h5py==3.15.1                  # SciCode numerical ground truth (test_data.h5)
+      - bitsandbytes==0.48.2
+      - wandb==0.23.1

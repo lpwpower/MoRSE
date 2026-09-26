@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.egg-info
+
+# Data artifacts
+*.h5
+
+# Training / eval outputs
+checkpoints/
+runs/
+wandb/
+slurm_logs/
+
+# OS
+.DS_Store

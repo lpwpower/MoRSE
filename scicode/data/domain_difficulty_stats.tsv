@@ -1,0 +1,81 @@
+problem_id	problem_name	domain	subfield	steps	difficulty
+1	CG	Math	Numerical Linear Algebra	1	Easy
+2	Gaussian_Beam_Focus	Physics	Optics	1	Easy
+3	Gauss_Seidel	Math	Numerical Linear Algebra	1	Easy
+4	IncomChol	Math	Numerical Linear Algebra	1	Easy
+5	Lanczos	Math	Numerical Linear Algebra	1	Easy
+6	Spatial_filters_I	Physics	Optics	1	Easy
+7	Spatial_filters_II	Physics	Optics	1	Easy
+8	Spatial_filters_III	Physics	Optics	1	Easy
+9	Weighted_Jacobi	Math	Numerical Linear Algebra	1	Easy
+10	ewald_summation	Chemistry	Computational Chemistry	11	Hard
+11	GADC_entanglement	Physics	Quantum Information/Computing	12	Hard
+12	Schrodinger_DFT_with_SCF	Chemistry	Quantum Chemistry	14	Hard
+13	Maxwell_Equation_Solver	Physics	Computational Physics	15	Hard
+14	Brownian_motion_in_the_optical_tweezer	Physics	Optics	2	Easy
+15	Crank_Nicolson_for_time_dependent_Schrodinger	Physics	Computational Physics	2	Easy
+16	Davidson_method	Chemistry	Computational Chemistry	2	Easy
+17	linear_tetrahedron_method	Physics	Condensed Matter Physics	2	Easy
+18	NURBS	Math	Computational Mechanics	2	Easy
+19	n_tangle	Physics	Quantum Information/Computing	2	Easy
+20	phonon_angular_momentum	Physics	Condensed Matter Physics	2	Easy
+21	Absorption_coefficient_for_alloy_GaAlAs	Material Science	Semiconductor Materials	3	Medium
+22	Beam_translation_reexpansion	Physics	Optics	3	Medium
+23	Blahut_Arimoto	Physics	Quantum Information/Computing	3	Medium
+24	Burgers_equation	Math	Computational Mechanics	3	Medium
+25	CRM_in_chemostat	Biology	Ecology	3	Medium
+26	CRM_in_serial_dilution	Biology	Ecology	3	Medium
+27	Design_trade_offs_for_high_speed_photodetectors	Material Science	Semiconductor Materials	3	Medium
+28	Gaussian_Beam_Intensity	Physics	Optics	3	Medium
+29	Gram_Schmidt_orthogonalization	Math	Numerical Linear Algebra	3	Medium
+30	helium_slater_jastrow_wavefunction	Chemistry	Quantum Chemistry	3	Medium
+31	independent_component_analysis	Math	Numerical Linear Algebra	3	Medium
+32	Multiparticle_dynamics_in_the_optical_tweezer_array	Physics	Optics	3	Medium
+33	phase_diagram_chern_haldane_model_v1	Physics	Condensed Matter Physics	3	Medium
+34	PN_diode_band_diagram	Material Science	Semiconductor Materials	3	Medium
+35	Quantum_Dot_Absorption_Spectrum	Material Science	Semiconductor Materials	3	Medium
+36	Quasi_Fermi_levels_of_photo_resistor_out_of_equilibrium	Material Science	Semiconductor Materials	3	Medium
+37	ray_optics_spherical_aberration	Physics	Optics	3	Medium
+38	Reciprocal_lattice_vector	Physics	Condensed Matter Physics	3	Medium
+39	Reflection_spectra_for_a_Distributed_Bragg_Reflector	Material Science	Semiconductor Materials	3	Medium
+40	Spliting_Operator	Math	Computational Mechanics	3	Medium
+41	Structural_stability_in_serial_dilution	Biology	Ecology	3	Medium
+42	The_threshold_current_for_multi_quantum_well_lasers	Material Science	Semiconductor Materials	3	Medium
+43	two_end_fiber_laser_generator	Physics	Optics	3	Medium
+44	two_mer_entropy	Biology	Biochemistry	3	Medium
+45	finite_difference_heat_equation	Physics	Computational Physics	4	Medium
+46	helium_atom_vmc	Chemistry	Quantum Chemistry	4	Medium
+47	Internal_Energy	Material Science	Molecular Modeling	4	Medium
+48	MEELS_conversion	Physics	Condensed Matter Physics	4	Medium
+49	nbody	Physics	Astrophysics	4	Medium
+50	Replica_symmetry_breaking	Physics	Condensed Matter Physics	4	Medium
+51	SciCode_Example	Material Science	Molecular Modeling	4	Medium
+52	Shooting_algo_H_atom	Physics	Computational Physics	4	Medium
+53	Stochastic_Lotka_Volterra	Biology	Ecology	4	Medium
+54	SUPG	Math	Computational Mechanics	4	Medium
+55	Swift_Hohenberg	Biology	Ecology	4	Medium
+56	temporal_niches	Biology	Ecology	4	Medium
+57	1D_harmonic_oscillator_numerov_shooting	Physics	Computational Physics	5	Medium
+58	Tolman_Oppenheimer_Volkoff_star	Physics	Astrophysics	5	Medium
+59	VQE	Physics	Quantum Information/Computing	5	Medium
+60	Widom_particle_insertion	Chemistry	Computational Chemistry	5	Medium
+61	Xray_conversion_I	Physics	Condensed Matter Physics	5	Medium
+62	dmrg	Physics	Condensed Matter Physics	6	Hard
+63	Estimating_Stock_Option_Price	Math	Computational Finance	6	Hard
+64	GCMC	Material Science	Molecular Modeling	6	Hard
+65	GHZ_protocol_fidelity	Physics	Quantum Information/Computing	6	Hard
+66	kolmogorov_crespi_potential	Chemistry	Quantum Chemistry	6	Hard
+67	LEG_Dyson_equation_bulk	Physics	Condensed Matter Physics	6	Hard
+68	helium_atom_dmc	Chemistry	Quantum Chemistry	8	Hard
+69	LEG_Dyson_equation_semi_infinite	Physics	Condensed Matter Physics	8	Hard
+70	neutrino_oscillation	Physics	Particle Physics	8	Hard
+71	GADC_rev_coherent_info	Physics	Quantum Information/Computing	9	Hard
+72	ising_model	Physics	Condensed Matter Physics	9	Hard
+73	Xray_conversion_II	Physics	Condensed Matter Physics	9	Hard
+74	Householder_QR	Math	Numerical Linear Algebra	1	Easy
+75	graphene_tight_binding	Physics	Condensed Matter Physics	3	Medium
+76	protein_dna_binding	Biology	Genetics	4	Medium
+77	Berendsen_thermostat	Material Science	Molecular Modeling	12	Hard
+78	Chaotic_Dynamics_Pendulum	Math	Computational Mechanics	3	Medium
+79	Nose_Hoover_chain_thermostat	Material Science	Molecular Modeling	4	Medium
+80	Anderson_thermostat	Material Science	Molecular Modeling	7	Hard

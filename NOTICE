@@ -1,0 +1,22 @@
+MoRSE — Task-Oriented Multi-Agent System with Mixture of Role-Subtask Experts
+
+This repository is released under the Apache License 2.0 (see LICENSE).
+
+================================================================================
+Third-party datasets
+================================================================================
+
+SRDD (Software Requirement Description Dataset)
+  Source : ChatDev (OpenBMB)
+           https://github.com/OpenBMB/ChatDev/tree/chatdev1.0/SRDD
+  License: Apache License 2.0
+  1,200 software-requirement descriptions across 40 application categories.
+  Redistributed under srdd/data/.
+
+SciCode
+  Source : SciCode benchmark — "SciCode: A Research Coding Benchmark Curated by
+           Scientists" (arXiv:2407.13168)
+  License: Apache License 2.0
+  80 scientific-computing problems. Problem data redistributed under scicode/data/.
+  The ~1 GB numerical ground truth (test_data.h5) is NOT redistributed here;
+  fetch it from the official release via scicode/eval/download_test_data.sh.
