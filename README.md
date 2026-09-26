@@ -128,11 +128,11 @@ bash scicode/run_infer.sh     # evaluate a trained checkpoint (set MOLE_CHECKPOI
 If you find MoRSE useful for your research, please cite:
 
 ```bibtex
-@inproceedings{li2026morse,
-  title     = {MoRSE: Task-Oriented Multi-Agent System with Mixture of Role-Subtask Experts},
-  author    = {Li, Peiwen and Zhang, Shiyang and Zhang, Yangtian and He, Sizhuang and van Dijk, David and Ying, Rex},
-  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
-  year      = {2026}
+@article{li2026morse,
+  title   = {{MoRSE}: Task-Oriented Multi-Agent System with Mixture of Role-Subtask Experts},
+  author  = {Li, Peiwen and Zhang, Shiyang and Zhang, Yangtian and He, Sizhuang and van Dijk, David and Ying, Rex},
+  journal = {arXiv preprint arXiv:2608.09251},
+  year    = {2026}
 }
 ```
 

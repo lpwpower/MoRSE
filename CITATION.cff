@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "MoRSE: Task-Oriented Multi-Agent System with Mixture of Role-Subtask Experts"
+authors:
+  - family-names: Li
+    given-names: Peiwen
+  - family-names: Zhang
+    given-names: Shiyang
+  - family-names: Zhang
+    given-names: Yangtian
+  - family-names: He
+    given-names: Sizhuang
+  - family-names: Dijk
+    name-particle: van
+    given-names: David
+  - family-names: Ying
+    given-names: Rex
+license: Apache-2.0
+repository-code: "https://github.com/lpwpower/MoRSE"
+url: "https://arxiv.org/abs/2608.09251"
+preferred-citation:
+  type: article
+  title: "MoRSE: Task-Oriented Multi-Agent System with Mixture of Role-Subtask Experts"
+  authors:
+    - family-names: Li
+      given-names: Peiwen
+    - family-names: Zhang
+      given-names: Shiyang
+    - family-names: Zhang
+      given-names: Yangtian
+    - family-names: He
+      given-names: Sizhuang
+    - family-names: Dijk
+      name-particle: van
+      given-names: David
+    - family-names: Ying
+      given-names: Rex
+  journal: "arXiv preprint arXiv:2608.09251"
+  year: 2026
+  url: "https://arxiv.org/abs/2608.09251"
